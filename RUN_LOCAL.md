@@ -90,3 +90,9 @@ make run
 make test-docker
 make stop
 ```
+## 8. Docker Image Tag (Minh chứng nộp bài)
+
+Image của nhóm đã được đóng gói và push thành công lên Docker Hub. 
+Có thể pull trực tiếp về qua tag sau:
+
+`1771020310/camera-stream:lab04`
